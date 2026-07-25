@@ -1,0 +1,26 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Copyright (c) 2026 mo0ogly
+
+This repository contains documents that combine two layers:
+
+1. OWASP AISVS requirement texts, which are the property of the OWASP
+   Foundation and its contributors and are themselves licensed under
+   CC BY-SA 4.0. Official source: https://github.com/OWASP/AISVS
+
+2. An authoring and integration layer (audit questions, expected evidence,
+   response criteria, cross-framework mappings, and the Evidence Freshness
+   / Continuous Controls Monitoring model) added on top of that standard.
+
+Both layers in this repository are made available under the Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit, indicate if changes were made, and distribute your
+contributions under the same license.
+
+The integration layer and the Evidence Freshness model do not imply endorsement
+by the OWASP Foundation and are not an official crosswalk. The Evidence
+Freshness annex is a design proposal presented for review, not a certification.
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
