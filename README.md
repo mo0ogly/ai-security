@@ -1,8 +1,8 @@
-# AI Security Frameworks
+# Security Frameworks
 
 Open, practitioner-oriented resources for securing, governing, auditing, and continuously assuring AI and agentic systems.
 
-This repository is not dedicated to a single standard. It is an evolving collection of **AI security frameworks, audit methodologies, control models, cross-framework mappings, and continuous-monitoring approaches** intended for security practitioners, auditors, governance teams, researchers, and AI system owners.
+This repository is not dedicated to a single standard. It is an evolving collection of **security frameworks, audit methodologies, control models, cross-framework mappings, and continuous-monitoring approaches** intended for security practitioners, auditors, governance teams, researchers, and AI system owners.
 
 The repository focuses on turning high-level requirements into operational and auditable resources:
 
