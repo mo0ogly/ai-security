@@ -1,0 +1,25 @@
+GENARIS — Supports pédagogiques EBIOS Risk Manager
+© 2026 Fabrice Pizzi
+
+Les contributions originales de Fabrice Pizzi dans les supports stagiaires,
+corrections, synthèses et schémas GENARIS de cette archive sont mises à disposition
+sous licence Creative Commons Attribution — Pas d’utilisation commerciale —
+Partage dans les mêmes conditions 4.0 International (CC BY-NC-SA 4.0).
+
+Vous pouvez copier, partager et adapter ces contributions en créditant Fabrice
+Pizzi, en fournissant un lien vers la licence et en indiquant les modifications.
+L’utilisation commerciale n’est pas autorisée par cette licence. Les adaptations
+partagées doivent respecter les conditions de partage à l’identique de la licence.
+Le texte juridique de la licence fait foi.
+
+Licence : https://creativecommons.org/licenses/by-nc-sa/4.0/
+Texte juridique : https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr
+
+Les documents et références de tiers, notamment ceux de l’ANSSI et du CFSSI,
+conservent leurs droits et conditions propres. La présente notice ne les place
+pas sous une nouvelle licence et ne revendique aucun soutien de leur part.
+Le cas GENARIS et ses cotations sont pédagogiques ; ils ne constituent pas un audit.
+
+Support_de_Formation.pptx est un document de l’ANSSI. Ce fichier tiers est
+conservé sans modification et est expressément exclu de la licence
+CC BY-NC-SA 4.0 des contributions GENARIS de Fabrice Pizzi.

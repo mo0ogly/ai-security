@@ -14,7 +14,7 @@ Supports pédagogiques de Fabrice Pizzi pour les cinq ateliers EBIOS Risk Manage
 
 ## Présentation
 
-[Support de formation PowerPoint](Support_de_Formation.pptx) — fichier fourni dans le projet, conservé avec ses mentions et conditions propres.
+[Support de formation PowerPoint de l’ANSSI](Support_de_Formation.pptx) — document tiers de l’ANSSI, non créé par Fabrice Pizzi. Il est conservé sans modification, avec ses mentions et conditions propres, et n’est pas couvert par la licence CC BY-NC-SA 4.0 des PDF GENARIS.
 
 ## Licence et attribution
 
